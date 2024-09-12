@@ -1,0 +1,22 @@
+local GameSelected
+local GameIds = {
+  ["Deepwoken"] = 1359573625,
+  ["Others"] = nil
+}
+local loadstrings = {
+  ["Others"] = "https://api.luarmor.net/files/v3/loaders/b720ffa9b22a4e2ad324c37791ae8ad9.lua",
+  ["Deepwoken"] = "https://api.luarmor.net/files/v3/loaders/fe358ea29a05f48f4427c37b32ba840a.lua"
+}
+for i,v in pairs(GameIds) do
+    if v == game.GameId then
+        GameSelected = i
+        break
+    end
+end
+
+GameSelected = GameSelected or "Others"
+if GameSelected then
+  local ldstr = clonefunction(loadstring)
+  ldstr(game:HttpGet(loadstrings[GameSelected]))()
+end
+  
