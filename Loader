@@ -1,4 +1,4 @@
-getgenv().script_key = script_key
+getgenv().skibidi_script_key = script_key;
 local GameSelected
 local GameIds = {
   ["Deepwoken"] = 1359573625,
