@@ -17,7 +17,12 @@ end
 
 GameSelected = GameSelected or "Others"
 if GameSelected then
-  local ldstr = clonefunction(loadstring)
+  local ldstr
+  if clonefunction then
+  ldstr = clonefunction(loadstring)
+  else
+  ldstr = loadstring
+  end
   ldstr(game:HttpGet(loadstrings[GameSelected]))()
 end
   
