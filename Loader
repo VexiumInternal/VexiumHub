@@ -5,7 +5,8 @@ local loadstrings = {
   --[other] = "https://api.luarmor.net/files/v3/loaders/b720ffa9b22a4e2ad324c37791ae8ad9.lua",
   [1359573625] = "https://api.luarmor.net/files/v3/loaders/fe358ea29a05f48f4427c37b32ba840a.lua", -- deepwoken
   [6035872082]  = "https://api.luarmor.net/files/v3/loaders/30133e60e0342ef1ac2da2b009704225.lua", -- rivals
-  [3150475059] = " " -- ff2
+  [3150475059] = " ", -- ff2
+  [4871329703] = " ", -- type soul
 }
 
 
