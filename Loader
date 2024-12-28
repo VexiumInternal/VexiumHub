@@ -8,7 +8,8 @@ local loadstrings = {
   [3150475059] = "https://api.luarmor.net/files/v3/loaders/ec84ba4582e77f6ce93dd70b6e98da81.lua", -- ff2
   [4871329703] = "https://api.luarmor.net/files/v3/loaders/7e242577e907a17db266d4b6f30412c8.lua", -- type soul
   [5147866763] = "https://api.luarmor.net/files/v3/loaders/880454d7a1c7670bbac77cb1cff9f9fc.lua", -- ninja
-  [358276974] = "https://api.luarmor.net/files/v3/loaders/9e0e888e2e839b75e3995f0fb6fd1c47.lua", -- ar2
+  [358276974] = "https://api.luarmor.net/files/v3/loaders/9e0e888e2e839b75e3995f0fb6fd1c47.lua", -- apoc rising 2
+  [3808223175] = "https://api.luarmor.net/files/v3/loaders/b0aef3b992dde09634e6cdc5a9e45112.lua", -- jujutsu infinite
 }
 
 
