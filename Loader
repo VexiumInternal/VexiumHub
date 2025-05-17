@@ -2,15 +2,12 @@
 getgenv().skibidi_script_key = script_key;
 
 local loadstrings = {
-  --[other] = "https://api.luarmor.net/files/v3/loaders/b720ffa9b22a4e2ad324c37791ae8ad9.lua",
+  [2459091562] = "https://api.luarmor.net/files/v3/loaders/21dfd7471611d737a2873856bf567c6d.lua", -- rh2
   [1359573625] = "https://api.luarmor.net/files/v3/loaders/fe358ea29a05f48f4427c37b32ba840a.lua", -- deepwoken
-  [6035872082]  = "https://api.luarmor.net/files/v3/loaders/30133e60e0342ef1ac2da2b009704225.lua", -- rivals
   [3150475059] = "https://api.luarmor.net/files/v3/loaders/ec84ba4582e77f6ce93dd70b6e98da81.lua", -- ff2
-  [4871329703] = "https://api.luarmor.net/files/v3/loaders/7e242577e907a17db266d4b6f30412c8.lua", -- type soul
-  [5147866763] = "https://api.luarmor.net/files/v3/loaders/880454d7a1c7670bbac77cb1cff9f9fc.lua", -- ninja
-  [358276974] = "https://api.luarmor.net/files/v3/loaders/9e0e888e2e839b75e3995f0fb6fd1c47.lua", -- apoc rising 2
   [3808223175] = "https://api.luarmor.net/files/v3/loaders/b0aef3b992dde09634e6cdc5a9e45112.lua", -- jujutsu infinite
-  [3183403065] = "https://api.luarmor.net/files/v3/loaders/2dfb29bb3e492a01da433fd51aaf98c2.lua" --anime adventures
+  [4931927012] = "https://api.luarmor.net/files/v3/loaders/d2b0c0249605d449b5e53e92e03939e0.lua", -- Basketball Legends
+  [6490954291] = "https://api.luarmor.net/files/v3/loaders/5f3d1f5e877ef936a37734c07582adbb.lua", -- Ghoul:RE
 }
 
 
